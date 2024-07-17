@@ -1,0 +1,11 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "A brief description of the token.",
+  "website": "https://ibb.co/L0CyYKq",
+  "explorer": "https://bscscan.com/address/0xFc9dB347075a33eD9BdFdE2a32c2c118224b48E9>",
+  "type": "BEP20",
+  "status": "active",
+  "id": "<0xFc9dB347075a33eD9BdFdE2a32c2c118224b48E9>"
+}
